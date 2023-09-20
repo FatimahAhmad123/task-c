@@ -5,5 +5,7 @@ Line 4 main
 Line 1 feature1
 Line 2 feature1
 New Line.
-New line mainNew line again main
+New Line.
+New line main
+new line againNew line again main
 New Line.
